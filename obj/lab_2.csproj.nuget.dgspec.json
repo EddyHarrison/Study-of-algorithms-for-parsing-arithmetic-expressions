@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\deksp\\4 курс\\1 семестр\\теория языков и методы трансляции\\laba2\\lab_2.csproj": {}
+  },
+  "projects": {
+    "E:\\deksp\\4 курс\\1 семестр\\теория языков и методы трансляции\\laba2\\lab_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\deksp\\4 курс\\1 семестр\\теория языков и методы трансляции\\laba2\\lab_2.csproj",
+        "projectName": "lab_2",
+        "projectPath": "E:\\deksp\\4 курс\\1 семестр\\теория языков и методы трансляции\\laba2\\lab_2.csproj",
+        "packagesPath": "C:\\Users\\kalki\\.nuget\\packages\\",
+        "outputPath": "E:\\deksp\\4 курс\\1 семестр\\теория языков и методы трансляции\\laba2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kalki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

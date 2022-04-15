@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/zm-vm-csharp/.dotnet/store/|arch|/|tfm|",
+      "/home/zm-vm-csharp/.nuget/packages"
+    ]
+  }
+}

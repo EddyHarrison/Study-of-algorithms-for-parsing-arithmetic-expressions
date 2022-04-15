@@ -1,0 +1,16 @@
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2.deps.json
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2.runtimeconfig.json
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2.runtimeconfig.dev.json
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2.dll
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/ref/lab_2.dll
+/home/zm-vm-csharp/c#/lab_2/bin/Debug/net5.0/lab_2.pdb
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.csproj.AssemblyReference.cache
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.AssemblyInfoInputs.cache
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.AssemblyInfo.cs
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.csproj.CoreCompileInputs.cache
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.dll
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/ref/lab_2.dll
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.pdb
+/home/zm-vm-csharp/c#/lab_2/obj/Debug/net5.0/lab_2.genruntimeconfig.cache
